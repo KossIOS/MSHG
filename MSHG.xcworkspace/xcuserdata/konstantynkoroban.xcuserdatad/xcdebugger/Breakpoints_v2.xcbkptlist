@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9ED933F7-F022-4CD7-89FF-CC7CA51CCA88"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MSHG/Views/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3 - b14cfe13405cbed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MSHG.HomeViewController.categories.getter : Swift.Array&lt;MSHG.DishCategory&gt;"
+                  moduleName = "MSHG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Documents/TeechmeSkeels/MSHG/MSHG/Views/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3 - 2e50618bd866a6c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MSHG.HomeViewController.categories.setter : Swift.Array&lt;MSHG.DishCategory&gt;"
+                  moduleName = "MSHG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Documents/TeechmeSkeels/MSHG/MSHG/Views/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3 - bdde177f42f60919"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MSHG.HomeViewController.categories.modify : Swift.Array&lt;MSHG.DishCategory&gt;"
+                  moduleName = "MSHG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Documents/TeechmeSkeels/MSHG/MSHG/Views/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3 - 63d89253270e9779"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MSHG.HomeViewController.categories.modify : Swift.Array&lt;MSHG.DishCategory&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MSHG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Documents/TeechmeSkeels/MSHG/MSHG/Views/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3 - e4d3b50dec2942f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MSHG.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MSHG.HomeViewController"
+                  moduleName = "MSHG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Documents/TeechmeSkeels/MSHG/MSHG/Views/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "66BBF1B9-5A14-47A7-9845-ACA857D5ABE3 - ab540bbca15f813f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MSHG.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MSHG.HomeViewController&gt;"
+                  moduleName = "MSHG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Documents/TeechmeSkeels/MSHG/MSHG/Views/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
